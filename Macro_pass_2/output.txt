@@ -1,0 +1,8 @@
++MOVER AREG 10, 
++ADD AREG ='1' 
++MOVER  20, 
++ADD  ='5' 
++MOVER CREG 100, 
++MOVER DREG 200, 
++ADD CREG ='15' 
++ADD DREG ='10' 
